@@ -1,7 +1,18 @@
 # hackathon-project
 
-# hello everyone! 
+Hello everyone, we are Sustainable Squad, and we are excited to present to you our website design for an online marketplace called “FreshlyLocal.” Our goal is to connect local farmers with consumers, making it easy for everyone to access fresh, healthy food. 
 
+System Conceptual Statement
+
+FreshlyLocal provides a wide range of locally sourced produce, while also supporting small-scale farmers and promoting sustainable agriculture. We believe that it is important to support local farmers, who often face challenges in getting their products to market. By connecting them with consumers directly, we aim to help them thrive and continue their important agricultural work. 
+
+Our user-friendly interface allows consumers to easily browse, select, and purchase. Consumers can add products to the shopping cart and complete purchases with an integrated payment system that is secure and convenient. Furthermore, we’ve implemented a delivery system,  ensuring timely and safe delivery of fresh produce. Also, consumers can provide ratings and reviews of the quality of products and services which enables us to continuously improve and refine the marketplace. 
+
+For farmers, the process of uploading products to the website is simple and straightforward, allowing them to easily name their products, add pictures, and set prices. 
+
+We are passionate about supporting small-scale farmers who grow and produce food in a sustainable and ethical manner. By choosing locally sourced produce, consumers can help reduce the carbon footprint of their food while also supporting their local communities. 
+
+To get started, a new user can sign up using their email address and create a unique username and password. After entering their local address and zip code, FreshlyLocal recommends the freshest produce of the day from local farmers in the area. 
 
 Environmental protection is an essential aspect of our lives, and it is crucial for us to take responsibility for the impact that we have on the world around us. We live in an era where climate change, pollution, and other environmental issues are threatening our planet's health and well-being. Therefore, it is imperative that we take action to protect the environment and preserve it for future generations.
 
