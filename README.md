@@ -2,8 +2,6 @@
 
 Hello everyone, we are Sustainable Squad, and we are excited to present to you our website design for an online marketplace called “FreshlyLocal.” Our goal is to connect local farmers with consumers, making it easy for everyone to access fresh, healthy food. 
 
-System Conceptual Statement
-
 FreshlyLocal provides a wide range of locally sourced produce, while also supporting small-scale farmers and promoting sustainable agriculture. We believe that it is important to support local farmers, who often face challenges in getting their products to market. By connecting them with consumers directly, we aim to help them thrive and continue their important agricultural work. 
 
 Our user-friendly interface allows consumers to easily browse, select, and purchase. Consumers can add products to the shopping cart and complete purchases with an integrated payment system that is secure and convenient. Furthermore, we’ve implemented a delivery system,  ensuring timely and safe delivery of fresh produce. Also, consumers can provide ratings and reviews of the quality of products and services which enables us to continuously improve and refine the marketplace. 
