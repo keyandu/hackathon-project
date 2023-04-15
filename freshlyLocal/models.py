@@ -42,7 +42,7 @@ class Customer(models.Model):
     password = models.CharField(max_length=100)
 
     def __str__(self):
-        return self.name
+        return self.nickname
 
     def register(self):
         self.save()

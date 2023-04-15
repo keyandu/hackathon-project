@@ -11,13 +11,15 @@
 				<br>
 				<br>
 				<table class="table">
+					{% for items in items %}
 					<tr>
-						<th><h5>Items: <strong>3</strong></h5></th>
+						<th><h5>Items: <strong>{{items.product.produce_name}}</strong></h5></th>
 						<th><h5>Total:<strong> $42</strong></h5></th>
 						<th>
 							<a  style="float:right; margin:5px;" class="btn btn-success" href="">Checkout</a>
 						</th>
 					</tr>
+					{% endfor %}
 				</table>
 			</div>
 
