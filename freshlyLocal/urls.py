@@ -7,6 +7,6 @@ import debug_toolbar
 app_name = 'freshlyLocal'
 urlpatterns = [
     path('hello/', views.say_hello),
-    path('__debug__/', include('debug_toolbar.urls')),
+    
 
 ]
